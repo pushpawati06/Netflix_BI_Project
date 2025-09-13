@@ -26,7 +26,7 @@ Exploratory Data Analysis (EDA):
 #Automation Potential:
 -The project demonstrates how image URLs and structured datasets can be used to automate report generation and enhance data storytelling.
 
-#💡 Purpose:
+💡 Purpose:
 
 This project is designed to showcase how a real-world dataset can be leveraged to make informed business decisions, optimize content strategy, and visualize key performance metrics.
 It’s useful for Data Analysts, Business Intelligence professionals, and anyone interested in data-driven decision-making in the entertainment industry.
